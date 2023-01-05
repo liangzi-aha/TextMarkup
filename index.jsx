@@ -1,9 +1,9 @@
 /*
- * @Author: liyongliang 17837022875@163.com
+ * @Author: 
  * @Date: 2022-09-02 16:31:42
- * @LastEditors: liyongliang 17837022875@163.com
+ * @LastEditors: 
  * @LastEditTime: 2022-09-15 15:24:05
- * @FilePath: /zhongheschool-web/client/components/TextMarkup/index.jsx
+ * @FilePath: 
  * @Description: 组件思路，选中文本获取文本内容，创建标签包裹文本展示高亮
  */
 
